@@ -14,7 +14,7 @@ const cors = require('cors');
 app.use(cors());
 
 app.get('/', function(req, res){
-    res.send("Terence De Vega, MIT");
+    res.send("Kemuel Alcebor BSIS 2A");
 });
 
 //Endpoint Here
